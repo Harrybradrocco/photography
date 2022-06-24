@@ -1,0 +1,23 @@
+# Base configs
+baseurl: "https://photography.rampatra.com"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-46465113-2"
+
+# UI configs
+title: "Harry Bradrocco Photography"
+subtitle: "See the world through my eyes!"
+author: "Harry"
+header:
+ title: "Photography"
+ subtitle: "by Harry"
+footer:
+ name: "Hey there, my name is Harry"
+ bio: "Engineer and Loves video games."
+
+social_urls:
+  facebook: "https://www.facebook.com/harrybradroccophotography"
+  twitter: "https://www.twitter.com/Lithiumwow"
+  instagram: "https://www.instagram.com/harrybradrocco"
+  linkedin: "https://in.linkedin.com/in/harrybradrocco"
+  github: "https://www.github.com/harrybradrocco"
